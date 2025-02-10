@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImagePluginFramework", "ImagePluginFramework\ImagePluginFramework.csproj", "{794DAB07-7CFE-4DD1-A0F0-C78F1FD1D5F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUsing", "TestUsing\TestUsing.csproj", "{FCCF56BA-C4D5-4B0D-B463-372DF1829DF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794DAB07-7CFE-4DD1-A0F0-C78F1FD1D5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794DAB07-7CFE-4DD1-A0F0-C78F1FD1D5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794DAB07-7CFE-4DD1-A0F0-C78F1FD1D5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794DAB07-7CFE-4DD1-A0F0-C78F1FD1D5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCCF56BA-C4D5-4B0D-B463-372DF1829DF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCF56BA-C4D5-4B0D-B463-372DF1829DF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCF56BA-C4D5-4B0D-B463-372DF1829DF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCF56BA-C4D5-4B0D-B463-372DF1829DF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
